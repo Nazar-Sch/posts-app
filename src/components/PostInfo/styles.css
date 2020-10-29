@@ -1,0 +1,20 @@
+.postWrapper {
+  display: flex;
+  flex-direction: column;
+}
+.mainPost {
+  border-bottom: 1px solid gray;
+}
+
+.titlePost {
+  margin-bottom: 1rem;
+}
+
+.titleText {
+  margin-bottom: 2rem;
+}
+
+.commentsContainer {
+  padding-left: 50px;
+  padding-right: 50px;
+}
